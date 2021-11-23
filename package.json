@@ -1,0 +1,22 @@
+{
+  "name": "firstnodeproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idobanyan-tau/firstNodeProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idobanyan-tau/firstNodeProject/issues"
+  },
+  "homepage": "https://github.com/idobanyan-tau/firstNodeProject#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
